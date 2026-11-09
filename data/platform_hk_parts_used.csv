@@ -1,0 +1,562 @@
+work_order,job_date,customer,building,technician,part_code,part_description,qty_used,job_type,closed_date
+WO-HK-40002,2025-11-29,Eastgate Mall Co. Ltd,35230,HK-T07,Work and Repair,,1,Preventive,2025-12-08
+WO-HK-40001,2025-12-06,Quay Healthcare Limited,36536,HK-T03,1011280,Shell Omala S2 GX 68 - 20 litre/pail,2,Breakdown,2025-12-06
+WO-HK-40014,2025-12-08,Keystone Property Group Limited,28603,HK-T06,1011047,Shell Omala S2 GX 460 - 20 litre/pail,2,Breakdown,2025-12-17
+WO-HK-40003,2025-12-12,Pacific Offices Co. Ltd,33604,HK-T03,1011316,460 Chain Roller,20,Preventive,2025-12-12
+WO-HK-40006,2025-12-12,Keystone Property Group Limited,28603,HK-T05,1011316,460 Chain Roller,20,Preventive,2025-12-14
+WO-HK-40013,2025-12-12,Keystone Property Group Limited,29550,HK-T03,1010839,Schneider Elevator Inverter ATV71HD45N4Z 380V 45kW,1,Preventive,2025-12-16
+WO-HK-40022,2025-12-12,Keystone Property Group Limited,30514,HK-T06,1011316,460 Chain Roller,5,Breakdown,2025-12-22
+WO-HK-40004,2025-12-13,Quay Healthcare Limited,36536,HK-T01,1011316,460 Chain Roller,5,Repair,2025-12-13
+WO-HK-40005,2025-12-13,Keystone Property Group Limited,29550,HK-T02,1011316,460 Chain Roller,10,Breakdown,2025-12-13
+WO-HK-40007,2025-12-13,Keystone Property Group Limited,30514,HK-T05,1011316,460 Chain Roller,10,Preventive,2025-12-14
+WO-HK-40018,2025-12-13,Keystone Property Group Limited,29550,HK-T01,1011316,460 Chain Roller,5,Breakdown,2025-12-19
+WO-HK-40019,2025-12-13,Keystone Property Group Limited,29550,HK-T02,1011316,460 Chain Roller,10,Breakdown,2025-12-20
+WO-HK-40008,2025-12-14,Keystone Property Group Limited,30844,HK-T07,1011316,460 Chain Roller,20,Preventive,2025-12-14
+WO-HK-40009,2025-12-14,Quay Healthcare Limited,36536,HK-T01,1011316,460 Chain Roller,20,Breakdown,2025-12-14
+WO-HK-40010,2025-12-14,Keystone Property Group Limited,29550,HK-T07,1011316,460 Chain Roller,50,Preventive,2025-12-15
+WO-HK-40011,2025-12-14,Keystone Property Group Limited,29550,HK-T06,1011316,460 Chain Roller,10,Breakdown,2025-12-15
+WO-HK-40012,2025-12-14,Keystone Property Group Limited,35006,HK-T06,1011316,460 Chain Roller,44,Breakdown,2025-12-15
+WO-HK-40015,2025-12-14,Keystone Property Group Limited,28603,HK-T04,101136,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,1,Breakdown,2025-12-18
+WO-HK-40025,2025-12-14,Keystone Property Group Limited,29550,HK-T02,1011316,460 Chain Roller,5,Breakdown,2025-12-25
+WO-HK-40021,2025-12-16,Keystone Property Group Limited,29550,HK-T07,1011364 ,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,1,Repair,2025-12-21
+WO-HK-40016,2025-12-18,Harbour Partners Limited,33597,HK-T05,1011364,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,1,Preventive,2025-12-18
+WO-HK-40017,2025-12-18,Keystone Property Group Limited,29550,HK-T07,1011364,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,1,Preventive,2025-12-18
+WO-HK-40024,2025-12-18,Atlas Residences Limited,33132,HK-T03,1011364,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,1,Breakdown,2025-12-23
+WO-HK-40023,2025-12-19,Keystone Property Group Limited,30514,HK-T04,,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,1,Breakdown,2025-12-22
+WO-HK-40026,2025-12-19,Pacific Offices Co. Ltd,33604,HK-T04,,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,1,Repair,2025-12-26
+WO-HK-40020,2025-12-20,Keystone Property Group Limited,30514,HK-T07,1011364,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,1,Repair,2025-12-20
+WO-HK-40027,2025-12-24,Keystone Property Group Limited,28603,HK-T01,,460 Step Roller,50,Breakdown,2025-12-26
+WO-HK-40029,2025-12-24,Keystone Property Group Limited,28603,HK-T06,1011316,460 Chain Roller,50,Breakdown,2025-12-29
+WO-HK-40028,2025-12-28,Pacific Offices Co. Ltd,,HK-T03,Work and Repair,,1,Preventive,2025-12-28
+WO-HK-40031,2025-12-28,Pacific Offices Co. Ltd,,HK-T07,Work and Repair,,1,Repair,2026-01-02
+WO-HK-40030,2025-12-29,Beacon Partners Limited,35221,HK-T04,Work and Repair,,1,Repair,2026-01-01
+WO-HK-40054,2025-12-30,Beacon Partners Limited,35221,HK-T04,Work and Repair,,1,Breakdown,2026-01-17
+WO-HK-40042,2026-01-04,Keystone Property Group Limited,30514,HK-T03,1011316,460 Chain Roller,30,Breakdown,2026-01-13
+WO-HK-40093,2026-01-05,Keystone Property Group Limited,28603,HK-T05,1011043,NSK 6209VVCM Single-row Deep Groove Ball Bearing,2,Preventive,2026-02-03
+WO-HK-40032,2026-01-06,Willow Hotels Limited,32703,HK-T01,,Shell Omala S2 GX 220 - 20 litre/pail,1,Breakdown,2026-01-06
+WO-HK-40034,2026-01-07,Atlas Residences Limited,33132,HK-T06,1012522,Kone Elevator Brake Module КМ50002114G01,1,Repair,2026-01-11
+WO-HK-40051,2026-01-08,Keystone Property Group Limited,29550,HK-T05,1011329,Plastic 16mm Guide Shoe Insert,2,Breakdown,2026-01-16
+WO-HK-40033,2026-01-09,Keystone Property Group Limited,28603,HK-T01,1011043 ,NSK 6209VVCM Single-row Deep Groove Ball Bearing,2,Breakdown,2026-01-09
+WO-HK-40035,2026-01-10,Keystone Property Group Limited,28603,HK-T01,1011247,FAG 62304-A-2RSR Deep groove ball bearing,8,Preventive,2026-01-12
+WO-HK-40036,2026-01-11,Keystone Property Group Limited,28603,HK-T07,1011247,FAG 62304-A-2RSR Deep groove ball bearing,8,Repair,2026-01-12
+WO-HK-40037,2026-01-11,Atlas Residences Limited,33132,HK-T06,19388,"Kone Elevator Inverter KM997159 40A IP23, AC Drive",1,Breakdown,2026-01-12
+WO-HK-40038,2026-01-11,Keystone Property Group Limited,28603,HK-T07,1010061,J A P A N 1 6 B 英 式 半 扣,1,Breakdown,2026-01-12
+WO-HK-40047,2026-01-11,Keystone Property Group Limited,28603,HK-T07,1010063,J A P A N 2 0 B 英 式 半 扣,1,Repair,2026-01-15
+WO-HK-40059,2026-01-11,Keystone Property Group Limited,29550,HK-T05,1011084,Schneider Contactor LC1D18F7C,2,Repair,2026-01-19
+WO-HK-40039,2026-01-12,Keystone Property Group Limited,28603,HK-T05,1010058,Handrail chain J A P A N 2 0 B 英 式 機 鍊,2,Breakdown,2026-01-12
+WO-HK-40040,2026-01-12,Keystone Property Group Limited,28603,HK-T02,1010058,Handrail chain J A P A N 2 0 B 英 式 機 鍊,2,Repair,2026-01-12
+WO-HK-40041,2026-01-12,Keystone Property Group Limited,29550,HK-T07,1010057,J A P A N 1 6 B 英 式 機 鍊,30,Breakdown,2026-01-12
+WO-HK-40043,2026-01-12,Keystone Property Group Limited,28603,HK-T07,1011316,460 Chain Roller,50,Breakdown,2026-01-13
+WO-HK-40055,2026-01-12,Keystone Property Group Limited,28603,HK-T06,1011043,NSK 6209VVCM Single-row Deep Groove Ball Bearing,2,Breakdown,2026-01-18
+WO-HK-40056,2026-01-12,Keystone Property Group Limited,35006,HK-T04,1012771,Light Bulb 60W B22,5,Preventive,2026-01-18
+WO-HK-40074,2026-01-12,Keystone Property Group Limited,28603,HK-T04,1010057,J A P A N 1 6 B 英 式 機 鍊,2,Preventive,2026-01-26
+WO-HK-40044,2026-01-13,Keystone Property Group Limited,35009,HK-T05,1011200,"550PJ Length : 1397mm, 3 rib, Pitch : 2.34mm",3,Repair,2026-01-13
+WO-HK-40045,2026-01-13,Keystone Property Group Limited,29550,HK-T01,,J A P A N 1 6 B 英 式 半 扣,3,Repair,2026-01-13
+WO-HK-40046,2026-01-13,Keystone Property Group Limited,35009,HK-T05,1012708,Schneider Relay RM22UA32MR,8,Preventive,2026-01-13
+WO-HK-40048,2026-01-13,Keystone Property Group Limited,30514,HK-T06,1011229,"Elevator Door Hanger Roller,JO456BF1 85mm*20mm-6204Z,Blue",2,Breakdown,2026-01-15
+WO-HK-40049,2026-01-13,Keystone Property Group Limited,29550,HK-T02,1010059 ,J A P A N 1 6 B 英 式 平 扣,3,Breakdown,2026-01-15
+WO-HK-40052,2026-01-13,Keystone Property Group Limited,28603,HK-T05,1010063,J A P A N 2 0 B 英 式 半 扣,1,Breakdown,2026-01-16
+WO-HK-40053,2026-01-13,Keystone Property Group Limited,29550,HK-T07,1011043 ,NSK 6209VVCM Single-row Deep Groove Ball Bearing,4,Breakdown,2026-01-16
+WO-HK-40060,2026-01-13,Keystone Property Group Limited,28603,HK-T02,1011241,NSK 6206VVCM 1 Row Ball Bearing,4,Repair,2026-01-19
+WO-HK-40061,2026-01-13,Keystone Property Group Limited,28603,HK-T02,1010057,J A P A N 1 6 B 英 式 機 鍊,4,Repair,2026-01-19
+WO-HK-40062,2026-01-13,Atlas Residences Limited,33132,HK-T07,18858,Kone Elevator LCECPU561 Assembly KM773390G03,1,Breakdown,2026-01-19
+WO-HK-40064,2026-01-13,Atlas Residences Limited,33132,HK-T05,19388,"Kone Elevator Inverter KM997159 40A IP23, AC Drive",1,Breakdown,2026-01-21
+WO-HK-40072,2026-01-13,Keystone Property Group Limited,28603,HK-T02,1011256,MCS card (from client escalators),1,Repair,2026-01-24
+WO-HK-40084,2026-01-13,Keystone Property Group Limited,28603,HK-T06,1010061,J A P A N 1 6 B 英 式 半 扣,2,Preventive,2026-02-01
+WO-HK-40050,2026-01-14,Keystone Property Group Limited,28603,HK-T06,1010211,Schneider Relay RM22TR33,20,Preventive,2026-01-15
+WO-HK-40070,2026-01-14,Keystone Property Group Limited,28603,HK-T01,1012667,Elevator Encoder 755A-05-S-0500-Q-HV-1- S-S/6.6-CE,1,Breakdown,2026-01-23
+WO-HK-40071,2026-01-14,Keystone Property Group Limited,35031,HK-T05,1011260,CNIM Combplate 20 teeth LHS,1,Breakdown,2026-01-23
+WO-HK-40065,2026-01-17,Keystone Property Group Limited,29550,HK-T03,1011327,Schneider TSXDEZ32D2 Discrete Input Module,2,Breakdown,2026-01-21
+WO-HK-40057,2026-01-18,Keystone Property Group Limited,29550,HK-T01,1011362 ,Schneider TSXDM264DTK,1,Breakdown,2026-01-18
+WO-HK-40058,2026-01-18,Atlas Residences Limited,33132,HK-T07,1012525,Kone Elevator Encoder REO-444 N1/CA 3266931,1,Preventive,2026-01-18
+WO-HK-40063,2026-01-18,Keystone Property Group Limited,29550,HK-T07,1011250,Tonic TEP810B emergency power pack,1,Breakdown,2026-01-19
+WO-HK-40082,2026-01-18,Keystone Property Group Limited,29550,HK-T02,1011246 ,Aiphone Car Intercom LEF-3,2,Breakdown,2026-01-31
+WO-HK-40067,2026-01-19,Keystone Property Group Limited,29550,HK-T02,1009105,Schneider Escalator PLC TSX3721001 (SLSNCC09007S01),1,Breakdown,2026-01-22
+WO-HK-40073,2026-01-19,Keystone Property Group Limited,29550,HK-T05,1011229,"Elevator Door Hanger Roller,JO456BF1 85mm*20mm-6204Z,Blue",20,Preventive,2026-01-24
+WO-HK-40075,2026-01-19,Keystone Property Group Limited,28603,HK-T03,1011330,Schneider TSXMRPP128K SRAM Application Memory Extension (SLS,2,Preventive,2026-01-26
+WO-HK-40080,2026-01-19,Keystone Property Group Limited,28603,HK-T07,1010061,J A P A N 1 6 B 英 式 半 扣,1,Repair,2026-01-28
+WO-HK-40081,2026-01-19,Keystone Property Group Limited,28603,HK-T01,1010057,J A P A N 1 6 B 英 式 機 鍊,1,Breakdown,2026-01-29
+WO-HK-40085,2026-01-19,Keystone Property Group Limited,29550,HK-T06,1011206,IDEC RH4B-UL relay AC110V,20,Preventive,2026-02-01
+WO-HK-40114,2026-01-19,Keystone Property Group Limited,35058,HK-T07,1012896,4 inch 3 jaw bearing puller,1,Breakdown,2026-02-17
+WO-HK-40066,2026-01-20,Keystone Property Group Limited,28603,HK-T02,1011241,NSK 6206VVCM 1 Row Ball Bearing,8,Preventive,2026-01-21
+WO-HK-40068,2026-01-20,Keystone Property Group Limited,29550,HK-T01,1009070,Otis Elevator Guide Shoe Roller 456CM Dia=125mm,2,Breakdown,2026-01-22
+WO-HK-40083,2026-01-20,Keystone Property Group Limited,29550,HK-T05,1011362,Schneider TSXDM264DTK,1,Preventive,2026-01-31
+WO-HK-40086,2026-01-20,Keystone Property Group Limited,28603,HK-T06,1012708,Schneider Relay RM22UA32MR,9,Breakdown,2026-02-01
+WO-HK-40118,2026-01-20,Keystone Property Group Limited,35058,HK-T02,1012897,6 inch 3 jaw bearing puller,1,Breakdown,2026-02-22
+WO-HK-40087,2026-01-21,Keystone Property Group Limited,30514,HK-T02,1012708,Schneider Relay RM22UA32MR,4,Breakdown,2026-02-01
+WO-HK-40069,2026-01-22,Keystone Property Group Limited,29550,HK-T01,1009069,Otis Elevator Guide Roller 456CL Dia=200mm,2,Breakdown,2026-01-22
+WO-HK-40097,2026-01-22,Keystone Property Group Limited,29550,HK-T06,1009089,Schneider Elevator Inverter ATV71HD22N4 3p 380v 22,1,Repair,2026-02-04
+WO-HK-40077,2026-01-25,Atlas Residences Limited,33132,HK-T03,1011280,Shell Omala S2 GX 68 - 20 litre/pail,2,Preventive,2026-01-27
+WO-HK-40090,2026-01-25,Keystone Property Group Limited,35009,HK-T03,1010211,Schneider Relay RM22TR33,2,Breakdown,2026-02-02
+WO-HK-40076,2026-01-26,Keystone Property Group Limited,35009,HK-T03,1011082,Schneider Module ABE7-R16S210,2,Preventive,2026-01-26
+WO-HK-40078,2026-01-26,Keystone Property Group Limited,35009,HK-T06,1011362,Schneider TSXDM264DTK,2,Preventive,2026-01-27
+WO-HK-40079,2026-01-26,Keystone Property Group Limited,35009,HK-T01,1011251,Schneider MODICON TSXAE414,2,Breakdown,2026-01-27
+WO-HK-40091,2026-01-26,Keystone Property Group Limited,35009,HK-T05,1011327,Schneider TSXDEZ32D2 Discrete Input Module,1,Repair,2026-02-02
+WO-HK-40104,2026-01-26,Keystone Property Group Limited,35009,HK-T06,1009105,Schneider Escalator PLC TSX3721001 (SLSNCC09007S01),1,Breakdown,2026-02-08
+WO-HK-40088,2026-01-28,Pacific Offices Co. Ltd,33604,HK-T03,1012877,WUXI Universal Steel Rope 8*19S+IWRC-10.0mm,1320,Breakdown,2026-02-01
+WO-HK-40089,2026-02-01,Keystone Property Group Limited,35009,HK-T03,,Schneider Relay RM22TR33,2,Breakdown,2026-02-01
+WO-HK-40092,2026-02-02,Keystone Property Group Limited,28603,HK-T07,1011043 ,NSK 6209VVCM Single-row Deep Groove Ball Bearing,4,Preventive,2026-02-02
+WO-HK-40094,2026-02-02,Keystone Property Group Limited,28603,HK-T02,1012871,CNIM Combplate 20 teeth Middle,10,Preventive,2026-02-03
+WO-HK-40098,2026-02-02,Keystone Property Group Limited,28603,HK-T03,1011316,460 Chain Roller,50,Breakdown,2026-02-04
+WO-HK-40103,2026-02-02,Keystone Property Group Limited,35009,HK-T02,1011280,Shell Omala S2 GX 68 - 20 litre/pail,1,Breakdown,2026-02-06
+WO-HK-40108,2026-02-02,Keystone Property Group Limited,28603,HK-T05,1011234,460 Step Roller,50,Preventive,2026-02-10
+WO-HK-40095,2026-02-03,Atlas Residences Limited,33132,HK-T03,1012532,Inverter L1000A for Elevator Model CIMR LB4A0060AAC 30KW,1,Breakdown,2026-02-03
+WO-HK-40096,2026-02-03,Keystone Property Group Limited,28603,HK-T06,1011043,NSK 6209VVCM Single-row Deep Groove Ball Bearing,4,Repair,2026-02-03
+WO-HK-40099,2026-02-03,Keystone Property Group Limited,28603,HK-T01,1011261,CNIM Combplate 21 teeth LHS,20,Breakdown,2026-02-04
+WO-HK-40100,2026-02-03,Keystone Property Group Limited,30844,HK-T07,1011191,Otis Blue Service Tool,1,Breakdown,2026-02-04
+WO-HK-40101,2026-02-03,Keystone Property Group Limited,29550,HK-T01,1013042,10 inch monitor (VGA+HDMI),1,Breakdown,2026-02-04
+WO-HK-40105,2026-02-03,Keystone Property Group Limited,28603,HK-T01,1011260,CNIM Combplate 20 teeth LHS,10,Breakdown,2026-02-08
+WO-HK-40102,2026-02-05,Keystone Property Group Limited,30844,HK-T06,1012708,Schneider Relay RM22UA32MR,9,Breakdown,2026-02-05
+WO-HK-40110,2026-02-05,Keystone Property Group Limited,29550,HK-T07,1013042,10 inch monitor (VGA+HDMI),1,Breakdown,2026-02-12
+WO-HK-40106,2026-02-06,Keystone Property Group Limited,29550,HK-T07,1013118,Fan 80x80x25 220V,4,Breakdown,2026-02-09
+WO-HK-40111,2026-02-06,Keystone Property Group Limited,29550,HK-T02,1012823,Elevator Guide Shoe Roller 456CV4,12,Preventive,2026-02-12
+WO-HK-40115,2026-02-06,Keystone Property Group Limited,29550,HK-T02,1013042,10 inch monitor (VGA+HDMI),1,Repair,2026-02-17
+WO-HK-40107,2026-02-09,Keystone Property Group Limited,35106,HK-T02,5633 ,Yuasa Lead Battery 12V 7Ah NP7-12,1,Breakdown,2026-02-09
+WO-HK-40109,2026-02-09,Pacific Offices Co. Ltd,33604,HK-T07,1011364 ,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,1,Repair,2026-02-11
+WO-HK-40125,2026-02-09,Willow Hotels Limited,32703,HK-T04,1012893,Escalator Brake 897200 AC110V N50/60Hz,1,Repair,2026-02-25
+WO-HK-40113,2026-02-11,Pioneer Facilities Co. Ltd,35140,HK-T03,1012792,3M comfort grip gloves,3,Repair,2026-02-15
+WO-HK-40112,2026-02-14,Keystone Property Group Limited,29550,HK-T04,1007712,Meanwell Power Supply Unit LRS-350-24/S- 350-24,4,Repair,2026-02-14
+WO-HK-40116,2026-02-17,Falcon Property Co. Ltd,32707,HK-T04,1012594 ,"Everbright Push Button, 24V, Red, Square, 304 S/S, Down Arro",2,Breakdown,2026-02-17
+WO-HK-40117,2026-02-18,Keystone Property Group Limited,30844,HK-T01,1009102,Wittur Selcom Door Controller RCF1/12-Sel Chi 12A,1,Breakdown,2026-02-19
+WO-HK-40120,2026-02-20,Falcon Property Co. Ltd,32707,HK-T06,1012946,"Everbright Push Button, 24V, Red, Square, 304 S/S, Up Arrow",2,Repair,2026-02-23
+WO-HK-40131,2026-02-20,Keystone Property Group Limited,30844,HK-T06,1011261,CNIM Combplate 21 teeth LHS,5,Repair,2026-03-02
+WO-HK-40121,2026-02-21,Keystone Property Group Limited,28603,HK-T04,1011247,FAG 62304-A-2RSR Deep groove ball bearing,20,Breakdown,2026-02-23
+WO-HK-40119,2026-02-22,Keystone Property Group Limited,29550,HK-T05,1011329,Plastic 16mm Guide Shoe Insert,2,Breakdown,2026-02-22
+WO-HK-40144,2026-02-22,Keystone Property Group Limited,30844,HK-T02,1012948,Schneider 3 phase control relay RM22TA33,3,Repair,2026-03-07
+WO-HK-40122,2026-02-23,Keystone Property Group Limited,28603,HK-T04,1007712,Meanwell Power Supply Unit LRS-350-24/S- 350-24,5,Breakdown,2026-02-23
+WO-HK-40123,2026-02-23,Keystone Property Group Limited,28603,HK-T06,1012792,3M comfort grip gloves,4,Preventive,2026-02-24
+WO-HK-40132,2026-02-23,Keystone Property Group Limited,28603,HK-T04,1012948,Schneider 3 phase control relay RM22TA33,20,Breakdown,2026-03-03
+WO-HK-40139,2026-02-23,Atlas Residences Limited,33132,HK-T05,1011192,Cross flow fan Model ULF-1042B/C,1,Preventive,2026-03-05
+WO-HK-40124,2026-02-24,Keystone Property Group Limited,28603,HK-T04,1012708,Schneider Relay RM22UA32MR,30,Repair,2026-02-24
+WO-HK-40126,2026-02-25,Keystone Property Group Limited,29550,HK-T07,1011329,Plastic 16mm Guide Shoe Insert,2,Breakdown,2026-02-27
+WO-HK-40136,2026-02-25,Keystone Property Group Limited,28603,HK-T05,1011200,"550PJ Length : 1397mm, 3 rib, Pitch : 2.34mm",1,Breakdown,2026-03-04
+WO-HK-40127,2026-02-27,Keystone Property Group Limited,35106,HK-T02,1011281,Shell Tellus S2 MX 68 - 20 litre/pail,3,Breakdown,2026-02-27
+WO-HK-40128,2026-02-27,Union Housing Limited,35204,HK-T05,1013328,Klaxon Sonos White 32 Tone Electronic Sounder,1,Breakdown,2026-02-28
+WO-HK-40129,2026-02-27,Atlas Residences Limited,33132,HK-T07,1012792,3M comfort grip gloves,3,Breakdown,2026-03-01
+WO-HK-40160,2026-02-27,Union Management Limited,,HK-T06,,,1,Breakdown,2026-03-18
+WO-HK-40133,2026-02-28,Union Management Limited,,HK-T02,Work and Repair,,1,Breakdown,2026-03-03
+WO-HK-40149,2026-02-28,Keystone Property Group Limited,30514,HK-T05,1013194,COUPR34E001 'H' coupling set,1,Preventive,2026-03-11
+WO-HK-40130,2026-03-01,Keystone Property Group Limited,35106,HK-T07,1009070,Otis Elevator Guide Shoe Roller 456CM Dia=125mm,12,Breakdown,2026-03-01
+WO-HK-40137,2026-03-01,Keystone Property Group Limited,30514,HK-T05,1011206,IDEC RH4B-UL relay AC110V,2,Preventive,2026-03-04
+WO-HK-40140,2026-03-01,Keystone Property Group Limited,29550,HK-T05,1012530,Otis Elevator Encoder Eltra ER58B1024Z5/28L8X6PR7.767,1,Breakdown,2026-03-05
+WO-HK-40145,2026-03-02,Atlas Residences Limited,33132,HK-T05,1011280,Shell Omala S2 GX 68 - 20 litre/pail,2,Breakdown,2026-03-08
+WO-HK-40134,2026-03-03,Keystone Property Group Limited,35106,HK-T03,16277,Elevator Bernstein Door Contactor SEL2-A1Z,20,Breakdown,2026-03-03
+WO-HK-40135,2026-03-03,Keystone Property Group Limited,35106,HK-T03,1006200,Wittur Selcom Roller 3201.05.0010/C,10,Preventive,2026-03-03
+WO-HK-40138,2026-03-03,Keystone Property Group Limited,30514,HK-T04,100909,Otis Elevator OVF30 Inverter ACA21290BA4 3Ph 22kW,1,Preventive,2026-03-04
+WO-HK-40146,2026-03-03,Keystone Property Group Limited,35106,HK-T04,1009071,Otis Elevator Guide Shoe Roller 456CN Dia=100mm,12,Preventive,2026-03-08
+WO-HK-40169,2026-03-03,Keystone Property Group Limited,35106,HK-T04,16227 ,Wittur Selcom Door Contact KF-9074/9075,30,Repair,2026-03-30
+WO-HK-40141,2026-03-04,Keystone Property Group Limited,35106,HK-T04,1009091,Wittur Selcom Door contact KF-2V/9075 25/230VAC 2A,20,Breakdown,2026-03-05
+WO-HK-40142,2026-03-06,Pacific Offices Co. Ltd,33604,HK-T05,1011364,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,1,Preventive,2026-03-06
+WO-HK-40143,2026-03-06,Atlas Residences Limited,33132,HK-T01,,Encoder E6B2-CWZ6E,2,Preventive,2026-03-06
+WO-HK-40147,2026-03-08,Atlas Residences Limited,33132,HK-T03,16227,Wittur Selcom Door Contact KF-9074/9075,18,Preventive,2026-03-08
+WO-HK-40152,2026-03-08,Keystone Property Group Limited,28603,HK-T03,1011241,NSK 6206VVCM 1 Row Ball Bearing,20,Preventive,2026-03-14
+WO-HK-40170,2026-03-08,Atlas Residences Limited,33132,HK-T02,1011227 ,Micro switch Z-15GQ-B,10,Preventive,2026-03-30
+WO-HK-40153,2026-03-09,Keystone Property Group Limited,30844,HK-T05,1011280 ,Shell Omala S2 GX 68 - 20 litre/pail,1,Repair,2026-03-14
+WO-HK-40156,2026-03-09,Atlas Residences Limited,33132,HK-T02,1013165,Elevator Door Belt SPZ 1010Lw / 3V400,6,Breakdown,2026-03-16
+WO-HK-40148,2026-03-10,Keystone Property Group Limited,29550,HK-T07,1011191,Otis Blue Service Tool,1,Breakdown,2026-03-10
+WO-HK-40150,2026-03-10,Willow Hotels Limited,32703,HK-T06,5633,Yuasa Lead Battery 12V 7Ah NP7-12,2,Preventive,2026-03-11
+WO-HK-40151,2026-03-12,Pacific Offices Co. Ltd,33604,HK-T03,,Elevator Door Motor Belt M-55,4,Breakdown,2026-03-12
+WO-HK-40154,2026-03-13,Keystone Property Group Limited,28603,HK-T02,784 ,DCSS IV CONTROL BOX FOR GCA27100CV3,1,Breakdown,2026-03-14
+WO-HK-40155,2026-03-15,Keystone Property Group Limited,29550,HK-T07,1011207 ,IDEC relay RH4B-UL DC12V,20,Preventive,2026-03-15
+WO-HK-40161,2026-03-15,Keystone Property Group Limited,30514,HK-T03,784,DCSS IV CONTROL BOX FOR GCA27100CV3,1,Preventive,2026-03-18
+WO-HK-40157,2026-03-16,Willow Hotels Limited,32703,HK-T01,1011046,Shell Omala S2 GX 220 - 20 litre/pail,1,Repair,2026-03-16
+WO-HK-40158,2026-03-16,Keystone Property Group Limited,29550,HK-T06,1013541,Elevator Switch UKS GB14048.5,5,Breakdown,2026-03-16
+WO-HK-40163,2026-03-16,Keystone Property Group Limited,29550,HK-T07,1011211,IDEC relay socket SH4B-05B,10,Breakdown,2026-03-23
+WO-HK-40159,2026-03-17,Keystone Property Group Limited,,HK-T05,1012775,IDEC Relay RH4B-UL DC24V,20,Breakdown,2026-03-17
+WO-HK-40175,2026-03-20,Keystone Property Group Limited,35522,HK-T05,1011315,Handrail sensor roller,2,Breakdown,2026-03-31
+WO-HK-40165,2026-03-21,Keystone Property Group Limited,29550,HK-T02,,Metal Long Spout Oil Can 250ml,1,Preventive,2026-03-24
+WO-HK-40171,2026-03-21,Keystone Property Group Limited,30514,HK-T05,1013057,H-shape plastic coupling 24.5mm height,9,Repair,2026-03-30
+WO-HK-40162,2026-03-22,Keystone Property Group Limited,29550,HK-T03,1011241,NSK 6206VVCM 1 Row Ball Bearing,6,Repair,2026-03-22
+WO-HK-40172,2026-03-22,Keystone Property Group Limited,29550,HK-T02,1011043,NSK 6209VVCM Single-row Deep Groove Ball Bearing,6,Repair,2026-03-30
+WO-HK-40164,2026-03-23,Keystone Property Group Limited,30514,HK-T03,1013057,H-shape plastic coupling 24.5mm height,9,Breakdown,2026-03-23
+WO-HK-40167,2026-03-23,Keystone Property Group Limited,29550,HK-T06,1012708,Schneider Relay RM22UA32MR,6,Preventive,2026-03-28
+WO-HK-40166,2026-03-24,Keystone Property Group Limited,35106,HK-T01,1012965,Handrail Newel Roller Set (dia. 18mm),20,Preventive,2026-03-24
+WO-HK-40173,2026-03-24,Pioneer Facilities Co. Ltd,35140,HK-T06,1012792,3M comfort grip gloves,3,Preventive,2026-03-30
+WO-HK-40176,2026-03-26,Keystone Property Group Limited,29550,HK-T04,1013649,Bearing Grease (1kg/can),1,Repair,2026-03-31
+WO-HK-40168,2026-03-28,Willow Hotels Limited,32703,HK-T02,Work and Repair,,1,Breakdown,2026-03-29
+WO-HK-40181,2026-03-29,Quay Healthcare Limited,36536,HK-T02,Work and Repair,,1,Breakdown,2026-04-04
+WO-HK-40174,2026-03-30,Keystone Property Group Limited,29550,HK-T03,1011261,CNIM Combplate 21 teeth LHS,20,Breakdown,2026-03-30
+WO-HK-40177,2026-03-30,Quay Healthcare Limited,36536,HK-T02,Work and Repair,,1,Breakdown,2026-03-31
+WO-HK-40190,2026-03-30,Quay Mall Co. Ltd,36532,HK-T02,Work and Repair,,1,Preventive,2026-04-14
+WO-HK-40178,2026-03-31,Quay Healthcare Limited,36536,HK-T06,Work and Repair,,2,Breakdown,2026-03-31
+WO-HK-40179,2026-03-31,Keystone Property Group Limited,30514,HK-T02,work and repair ,,1,Breakdown,2026-03-31
+WO-HK-40182,2026-03-31,Willow Hotels Limited,,HK-T02,Services Repair,,2,Breakdown,2026-04-04
+WO-HK-40183,2026-03-31,Beacon Partners Limited,35221,HK-T07,Work and Repair,,1,Breakdown,2026-04-05
+WO-HK-40180,2026-04-01,Keystone Property Group Limited,28603,HK-T03,,H-shape plastic coupling 24.5mm height,8,Breakdown,2026-04-03
+WO-HK-40184,2026-04-05,Keystone Property Group Limited,28603,HK-T04,1013550,"CNIM Handrail EHC 8339FWNX, Indoor, Black plastic material",1,Repair,2026-04-05
+WO-HK-40185,2026-04-05,Keystone Property Group Limited,29550,HK-T05,101123,Roller 85mm Wittur,50,Breakdown,2026-04-06
+WO-HK-40186,2026-04-06,Keystone Property Group Limited,29550,HK-T03,1011230,Roller 140mm,2,Breakdown,2026-04-07
+WO-HK-40187,2026-04-08,Keystone Property Group Limited,28603,HK-T01,1013180,"XCK-P139 Limit Switch 1NC, 1NO",6,Repair,2026-04-09
+WO-HK-40205,2026-04-08,Pacific Offices Co. Ltd,33604,HK-T03,1011364,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,1,Breakdown,2026-04-22
+WO-HK-40188,2026-04-09,Keystone Property Group Limited,29550,HK-T03,1013596,Main Rope,1,Breakdown,2026-04-09
+WO-HK-40189,2026-04-13,Union Housing Limited,33915,HK-T06,1013419,Elevator Emergency Light Power Supply,1,Breakdown,2026-04-13
+WO-HK-40191,2026-04-13,Union Housing Limited,33915,HK-T03,,Elevator Emergency Light Power Supply,1,Breakdown,2026-04-14
+WO-HK-40193,2026-04-13,Pacific Offices Co. Ltd,33604,HK-T01,1012930,3mm 16x64 dot matrix indicator c=red,1,Breakdown,2026-04-16
+WO-HK-40212,2026-04-13,Eastgate Mall Co. Ltd,35230,HK-T01,1012530,Otis Elevator Encoder Eltra ER58B1024Z5/28L8X6PR7.767,1,Preventive,2026-04-29
+WO-HK-40192,2026-04-14,Keystone Property Group Limited,29550,HK-T03,1010061,J A P A N 1 6 B 英 式 半 扣,3,Breakdown,2026-04-14
+WO-HK-40194,2026-04-14,Keystone Property Group Limited,29550,HK-T04,1010057,J A P A N 1 6 B 英 式 機 鍊,3,Repair,2026-04-16
+WO-HK-40206,2026-04-14,Union Housing Limited,33915,HK-T05,5633,Yuasa Lead Battery 12V 7Ah NP7-12,1,Breakdown,2026-04-22
+WO-HK-40195,2026-04-15,Keystone Property Group Limited,35106,HK-T03,1012965 ,Handrail Newel Roller Set (dia. 18mm),10,Repair,2026-04-16
+WO-HK-40203,2026-04-15,Pacific Offices Co. Ltd,33604,HK-T06,,3mm 16x64 dot matrix indicator c=red,1,Breakdown,2026-04-21
+WO-HK-40196,2026-04-16,Keystone Property Group Limited,35628,HK-T02,1010057 ,J A P A N 1 6 B 英 式 機 鍊,10,Preventive,2026-04-16
+WO-HK-40197,2026-04-17,Keystone Property Group Limited,30514,HK-T07,1011046,Shell Omala S2 GX 220 - 20 litre/pail,2,Breakdown,2026-04-17
+WO-HK-40198,2026-04-17,Keystone Property Group Limited,30514,HK-T05,1011316,460 Chain Roller,50,Breakdown,2026-04-18
+WO-HK-40199,2026-04-17,Quay Healthcare Limited,36536,HK-T05,1011280,Shell Omala S2 GX 68 - 20 litre/pail,1,Repair,2026-04-18
+WO-HK-40204,2026-04-18,Pacific Offices Co. Ltd,33604,HK-T04,1012930,3mm 16x64 dot matrix indicator c=red,2,Preventive,2026-04-21
+WO-HK-40220,2026-04-18,Keystone Property Group Limited,29550,HK-T02,1012871,CNIM Combplate 20 teeth Middle,10,Repair,2026-05-01
+WO-HK-40200,2026-04-19,Pacific Offices Co. Ltd,33604,HK-T07,1012597,"Dewhurst Push Button, 24V, Red, Square, 304 S/S,  2N/O stand",1,Breakdown,2026-04-19
+WO-HK-40201,2026-04-19,Pacific Offices Co. Ltd,33604,HK-T03,1012930,3mm 16x64 dot matrix indicator c=red,2,Preventive,2026-04-20
+WO-HK-40202,2026-04-20,Pacific Offices Co. Ltd,33604,HK-T01,1012604,"Dewhurst Push Button, 24V, Red, Square, 304 S/S, 1N/O, 1N/C ",2,Repair,2026-04-20
+WO-HK-40213,2026-04-20,Keystone Property Group Limited,30514,HK-T01,1012871,CNIM Combplate 20 teeth Middle,20,Repair,2026-04-29
+WO-HK-40208,2026-04-21,Pacific Offices Co. Ltd,33604,HK-T03,1013722,Schindler 16mm guide shoe insert,2,Repair,2026-04-26
+WO-HK-40207,2026-04-22,North Property Limited,34065,HK-T03,16226,Wittur Selcom Door Roller 3201.14.0268,4,Preventive,2026-04-23
+WO-HK-40221,2026-04-22,Keystone Property Group Limited,35031,HK-T01,1013057,H-shape plastic coupling 24.5mm height,8,Breakdown,2026-05-01
+WO-HK-40222,2026-04-22,Pacific Offices Co. Ltd,33604,HK-T05,1012602,"Dewhurst Push Button, 24V, Red, Square, 304 S/S,  2N/O stand",12,Preventive,2026-05-01
+WO-HK-40235,2026-04-22,Pacific Offices Co. Ltd,33604,HK-T04,1012596,"Dewhurst Push Button, 24V, Red, Square, 304 S/S,  2N/O stand",3,Preventive,2026-05-14
+WO-HK-40209,2026-04-26,Keystone Property Group Limited,29550,HK-T03,5633,Yuasa Lead Battery 12V 7Ah NP7-12,2,Repair,2026-04-26
+WO-HK-40210,2026-04-26,Keystone Property Group Limited,28603,HK-T07,1013734,21T Pinion Adjuster for Handrail Drive Chain,10,Breakdown,2026-04-27
+WO-HK-40218,2026-04-26,Keystone Property Group Limited,28603,HK-T07,1009076,Otis Elevator Board RSEBE(C)TJINC,1,Breakdown,2026-04-30
+WO-HK-40223,2026-04-26,Keystone Property Group Limited,30514,HK-T03,1013550,"CNIM Handrail EHC 8339FWNX, Indoor, Black plastic material",56,Preventive,2026-05-03
+WO-HK-40214,2026-04-27,Atlas Residences Limited,33132,HK-T06,1013721,MICO 16mm guide shoe insert,2,Breakdown,2026-04-29
+WO-HK-40211,2026-04-28,Keystone Property Group Limited,35009,HK-T04,1011257,MW MEVG WOVL SB-240-24 output 24V 10A,2,Breakdown,2026-04-28
+WO-HK-40215,2026-04-28,Atlas Residences Limited,33132,HK-T06,1013721,MICO 16mm guide shoe insert,2,Preventive,2026-04-29
+WO-HK-40224,2026-04-28,Quay Healthcare Limited,,HK-T01,Work and Repair,,9,Repair,2026-05-03
+WO-HK-40227,2026-04-28,Atlas Residences Limited,33132,HK-T05,1013721,MICO 16mm guide shoe insert,2,Preventive,2026-05-07
+WO-HK-40228,2026-04-28,Atlas Residences Limited,33132,HK-T02,1013721,MICO 16mm guide shoe insert,2,Breakdown,2026-05-07
+WO-HK-40229,2026-04-28,Quay Healthcare Limited,,HK-T01,Work and Repair,,3,Preventive,2026-05-08
+WO-HK-40241,2026-04-28,Alder Plaza Limited,35721,HK-T05,1012596,"Dewhurst Push Button, 24V, Red, Square, 304 S/S,  2N/O stand",1,Breakdown,2026-05-20
+WO-HK-40216,2026-04-29,Keystone Property Group Limited,29550,HK-T04,1011196,Fuji magnetic contactor SC-5-1 SC20AA-H11CC (1a1b),4,Breakdown,2026-04-29
+WO-HK-40217,2026-04-29,Quay Healthcare Limited,,HK-T05,Work and Repair,,200,Preventive,2026-04-29
+WO-HK-40219,2026-04-30,Falcon Property Co. Ltd,,HK-T01,Work and Repair,,1,Preventive,2026-04-30
+WO-HK-40226,2026-04-30,Quay Healthcare Limited,,HK-T02,Work and Repair,,32,Breakdown,2026-05-04
+WO-HK-40225,2026-05-03,Pacific Offices Co. Ltd,33604,HK-T05,1013486,"ABB Relay CM-PFS, CM-PFS.S",1,Breakdown,2026-05-03
+WO-HK-40230,2026-05-05,Pioneer Towers Co. Ltd,35771,HK-T03,1011192,Cross flow fan Model ULF-1042B/C,1,Repair,2026-05-09
+WO-HK-40232,2026-05-06,Pioneer Towers Co. Ltd,35771,HK-T07,5633,Yuasa Lead Battery 12V 7Ah NP7-12,1,Preventive,2026-05-10
+WO-HK-40233,2026-05-06,Union Housing Limited,33915,HK-T05,1007766,Kone Escalator Newel Chain KM5232300G03,1,Preventive,2026-05-12
+WO-HK-40234,2026-05-06,North Property Limited,34065,HK-T04,1014246,"DC24V motor, 1800rpm 120W IP54",1,Repair,2026-05-12
+WO-HK-40236,2026-05-07,North Property Limited,34065,HK-T05,1009074,Wittur Selcom Top Rope Roller 3201.05.0032 56*16*9,8,Repair,2026-05-14
+WO-HK-40231,2026-05-09,Keystone Property Group Limited,28603,HK-T02,1011046,Shell Omala S2 GX 220 - 20 litre/pail,1,Breakdown,2026-05-09
+WO-HK-40237,2026-05-13,Atlas Residences Limited,33132,HK-T01,1013025,Kone Inverter KDL16L Encoder KM950278G12,1,Preventive,2026-05-14
+WO-HK-40238,2026-05-16,Pacific Offices Co. Ltd,33604,HK-T04,1012930,3mm 16x64 dot matrix indicator c=red,1,Repair,2026-05-16
+WO-HK-40242,2026-05-16,Pacific Offices Co. Ltd,33604,HK-T02,1012930 ,3mm 16x64 dot matrix indicator c=red,1,Repair,2026-05-20
+WO-HK-40239,2026-05-17,Keystone Property Group Limited,29550,HK-T04,1014296,Battery Water,10,Breakdown,2026-05-17
+WO-HK-40240,2026-05-17,Union Housing Limited,33915,HK-T04,15332,Kone Elevator Leveling Sensor KM740337G01 77S,1,Preventive,2026-05-18
+WO-HK-40245,2026-05-17,Keystone Property Group Limited,35106,HK-T01,1012965,Handrail Newel Roller Set (dia. 18mm),12,Preventive,2026-05-28
+WO-HK-40249,2026-05-18,Keystone Property Group Limited,35106,HK-T02,1012965,Handrail Newel Roller Set (dia. 18mm),8,Repair,2026-06-03
+WO-HK-40243,2026-05-21,Harbour Partners Limited,33597,HK-T05,1011228 ,Contact & bridge VPHK030681,6,Repair,2026-05-22
+WO-HK-40244,2026-05-25,Keystone Property Group Limited,30844,HK-T01,1011281,Shell Tellus S2 MX 68 - 20 litre/pail,34,Breakdown,2026-05-25
+WO-HK-40246,2026-05-25,Keystone Property Group Limited,30844,HK-T07,,SC-N7 AC100-127V / DC100-120V 50/60Hz 2a2b,2,Breakdown,2026-05-28
+WO-HK-40247,2026-05-28,Keystone Property Group Limited,29550,HK-T01,1011260,CNIM Combplate 20 teeth LHS,10,Breakdown,2026-05-28
+WO-HK-40253,2026-05-28,Keystone Property Group Limited,30514,HK-T04,101413,Dewhurst US90 spring return square shape key switch with 827,6,Preventive,2026-06-06
+WO-HK-40250,2026-05-31,Keystone Property Group Limited,30514,HK-T03,1014132,Dewhurst US90 spring return square shape key switch with 827,2,Breakdown,2026-06-03
+WO-HK-40252,2026-06-01,Keystone Property Group Limited,30514,HK-T02,1011191,Otis Blue Service Tool,1,Preventive,2026-06-05
+WO-HK-40248,2026-06-02,Keystone Property Group Limited,30844,HK-T05,1014200,Rope Lubricant T86 (1L/can),4,Preventive,2026-06-02
+WO-HK-40258,2026-06-02,Keystone Property Group Limited,29550,HK-T03,1014179,101 Step Roller,6,Breakdown,2026-06-08
+WO-HK-40251,2026-06-03,Keystone Property Group Limited,30514,HK-T04,1014494,1501 Electrical Key Switch,3,Breakdown,2026-06-04
+WO-HK-40254,2026-06-05,Keystone Property Group Limited,30514,HK-T03,1011046 ,Shell Omala S2 GX 220 - 20 litre/pail,3,Preventive,2026-06-06
+WO-HK-40256,2026-06-05,Keystone Property Group Limited,35106,HK-T04,1013550,"CNIM Handrail EHC 8339FWNX, Indoor, Black plastic material",1,Repair,2026-06-07
+WO-HK-40255,2026-06-06,Keystone Property Group Limited,30514,HK-T07,1011047,Shell Omala S2 GX 460 - 20 litre/pail,1,Breakdown,2026-06-06
+WO-HK-40257,2026-06-06,Keystone Property Group Limited,30514,HK-T07,1014132,Dewhurst US90 spring return square shape key switch with 827,1,Preventive,2026-06-07
+WO-HK-40259,2026-06-08,Keystone Property Group Limited,30844,HK-T06,1013044 ,460 tachogenerator 444R S 1X120 CA IP54 11X30,3,Preventive,2026-06-08
+WO-HK-40294,2026-06-08,Keystone Property Group Limited,35009,HK-T02,1009089,Schneider Elevator Inverter ATV71HD22N4 3p 380v 22,1,Repair,2026-06-29
+WO-HK-40266,2026-06-09,Keystone Property Group Limited,29550,HK-T03,1014200,Rope Lubricant T86 (1L/can),2,Breakdown,2026-06-14
+WO-HK-40270,2026-06-09,Harbour Partners Limited,33597,HK-T06,1014515,Toshiba Door Guide Shoe,36,Repair,2026-06-16
+WO-HK-40275,2026-06-09,Falcon Property Co. Ltd,32707,HK-T05,1014472,Magnetic Switch BL-MC074AAP,1,Breakdown,2026-06-21
+WO-HK-40260,2026-06-10,Keystone Property Group Limited,30844,HK-T06,101304,460 tachogenerator 444R S 1X120 CA IP54 11X30,1,Repair,2026-06-10
+WO-HK-40261,2026-06-10,Keystone Property Group Limited,29550,HK-T07,1012708,Schneider Relay RM22UA32MR,12,Preventive,2026-06-10
+WO-HK-40262,2026-06-10,Keystone Property Group Limited,30514,HK-T02,1013044,460 tachogenerator 444R S 1X120 CA IP54 11X30,1,Repair,2026-06-11
+WO-HK-40263,2026-06-10,Keystone Property Group Limited,29550,HK-T06,1012948,Schneider 3 phase control relay RM22TA33,6,Breakdown,2026-06-12
+WO-HK-40264,2026-06-11,Harbour Partners Limited,33597,HK-T01,1014516,Toshiba Hanger Roller dia 62 x 16 x 6203 Flat Groove,12,Breakdown,2026-06-12
+WO-HK-40265,2026-06-12,Harbour Partners Limited,33597,HK-T02,1014350,Toshiba car door lock (left door),2,Breakdown,2026-06-12
+WO-HK-40278,2026-06-12,Union Housing Limited,33902,HK-T07,1011541,KONE MX18 Brake KM710216G02,2,Repair,2026-06-22
+WO-HK-40289,2026-06-12,Pacific Offices Co. Ltd,33604,HK-T06,1012930,3mm 16x64 dot matrix indicator c=red,1,Preventive,2026-06-27
+WO-HK-40268,2026-06-13,Pacific Offices Co. Ltd,33604,HK-T03,1012930,3mm 16x64 dot matrix indicator c=red,2,Breakdown,2026-06-15
+WO-HK-40267,2026-06-14,Pacific Offices Co. Ltd,33604,HK-T01,1012930,3mm 16x64 dot matrix indicator c=red,1,Preventive,2026-06-14
+WO-HK-40272,2026-06-14,Keystone Property Group Limited,30514,HK-T04,1012701,HIG Traffic Systems BS5-50/230V,1,Repair,2026-06-18
+WO-HK-40269,2026-06-15,Keystone Property Group Limited,36523,HK-T06,1014697,Roller Lever Limit Switch Z-15GW2-B,2,Preventive,2026-06-15
+WO-HK-40273,2026-06-15,Keystone Property Group Limited,30514,HK-T02,1014675,WHK-192H light curtain,2,Breakdown,2026-06-20
+WO-HK-40285,2026-06-15,Keystone Property Group Limited,35009,HK-T01,,9301 (Ver K) 迫力降壓板,1,Breakdown,2026-06-25
+WO-HK-40271,2026-06-16,Keystone Property Group Limited,29550,HK-T02,1011227 ,Micro switch Z-15GQ-B,10,Breakdown,2026-06-16
+WO-HK-40276,2026-06-17,Pacific Offices Co. Ltd,33604,HK-T06,1014613,LONCPIE 1.Q Board 594396,1,Repair,2026-06-21
+WO-HK-40274,2026-06-20,Keystone Property Group Limited,29550,HK-T01,1011280,Shell Omala S2 GX 68 - 20 litre/pail,1,Breakdown,2026-06-20
+WO-HK-40277,2026-06-20,Pacific Offices Co. Ltd,33604,HK-T01,1011280,Shell Omala S2 GX 68 - 20 litre/pail,2,Preventive,2026-06-21
+WO-HK-40279,2026-06-20,Atlas Residences Limited,33132,HK-T05,16226,Wittur Selcom Door Roller 3201.14.0268,8,Preventive,2026-06-22
+WO-HK-40286,2026-06-20,Keystone Property Group Limited,29550,HK-T05,1011280,Shell Omala S2 GX 68 - 20 litre/pail,2,Breakdown,2026-06-25
+WO-HK-40288,2026-06-20,Atlas Residences Limited,33132,HK-T06,1005514,Wittur Selcom Door Roller with Screw 3201.05.0013,2,Repair,2026-06-26
+WO-HK-40281,2026-06-21,Pioneer Towers Co. Ltd,35771,HK-T01,1012596,"Dewhurst Push Button, 24V, Red, Square, 304 S/S,  2N/O stand",1,Repair,2026-06-23
+WO-HK-40280,2026-06-22,Keystone Property Group Limited,28603,HK-T01,1010057,J A P A N 1 6 B 英 式 機 鍊,12,Repair,2026-06-22
+WO-HK-40296,2026-06-22,Pacific Offices Co. Ltd,33604,HK-T04,1011364,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,1,Preventive,2026-06-30
+WO-HK-40301,2026-06-22,Pacific Offices Co. Ltd,33604,HK-T03,1010370,59311703 Schindler salsis encoder,1,Breakdown,2026-07-02
+WO-HK-40282,2026-06-23,Keystone Property Group Limited,28603,HK-T01,1010057,J A P A N 1 6 B 英 式 機 鍊,1,Repair,2026-06-23
+WO-HK-40283,2026-06-23,Keystone Property Group Limited,30514,HK-T05,1010057,J A P A N 1 6 B 英 式 機 鍊,260,Preventive,2026-06-23
+WO-HK-40284,2026-06-24,Keystone Property Group Limited,28603,HK-T03,1010059,J A P A N 1 6 B 英 式 平 扣,24,Preventive,2026-06-24
+WO-HK-40287,2026-06-24,Pioneer Towers Co. Ltd,35771,HK-T04,1012602,"Dewhurst Push Button, 24V, Red, Square, 304 S/S,  2N/O stand",1,Preventive,2026-06-25
+WO-HK-40290,2026-06-24,Keystone Property Group Limited,28603,HK-T07,1011316,460 Chain Roller,200,Breakdown,2026-06-27
+WO-HK-40292,2026-06-24,Harbour Partners Limited,33597,HK-T02,1014351,Toshiba car door interlock switch,2,Preventive,2026-06-28
+WO-HK-40307,2026-06-24,Keystone Property Group Limited,29550,HK-T05,1010057,J A P A N 1 6 B 英 式 機 鍊,30,Preventive,2026-07-03
+WO-HK-40299,2026-06-25,Keystone Property Group Limited,29550,HK-T01,1014668,Elevator 633B1 Rotary Encoder E231024193804,1,Repair,2026-07-01
+WO-HK-40300,2026-06-25,Keystone Property Group Limited,28603,HK-T05,1011234,460 Step Roller,100,Breakdown,2026-07-01
+WO-HK-40309,2026-06-25,Keystone Property Group Limited,29550,HK-T03,1010057,J A P A N 1 6 B 英 式 機 鍊,30,Repair,2026-07-05
+WO-HK-40340,2026-06-26,Willow Campus Co. Ltd,36685,HK-T07,1014823,LED Spotlight RS100B LED5 840 6W 220V D75 WB (5000K 36°),6,Repair,2026-07-25
+WO-HK-40291,2026-06-27,Keystone Property Group Limited,28603,HK-T06,1011046,Shell Omala S2 GX 220 - 20 litre/pail,5,Breakdown,2026-06-27
+WO-HK-40297,2026-06-27,Union Housing Limited,33902,HK-T07,Work and Repair,,1,Breakdown,2026-06-30
+WO-HK-40293,2026-06-28,Union Housing Limited,33915,HK-T03,Work and Repair,,1,Preventive,2026-06-28
+WO-HK-40310,2026-06-28,Quay Healthcare Limited,36536,HK-T02,Work and Repair,,1,Breakdown,2026-07-05
+WO-HK-40295,2026-06-29,Atlas Residences Limited,33132,HK-T07,101253,Inverter L1000A for Elevator Model CIMR LB4A0060AAC 30KW,1,Preventive,2026-06-29
+WO-HK-40302,2026-06-29,Keystone Property Group Limited,29550,HK-T01,1011046,Shell Omala S2 GX 220 - 20 litre/pail,1,Preventive,2026-07-02
+WO-HK-40311,2026-06-29,Atlas Residences Limited,33132,HK-T06,1011047,Shell Omala S2 GX 460 - 20 litre/pail,1,Breakdown,2026-07-05
+WO-HK-40298,2026-06-30,Union Housing Limited,33915,HK-T04,Work and Repair,,1,Breakdown,2026-06-30
+WO-HK-40316,2026-06-30,Keystone Property Group Limited,30844,HK-T04,1011281,Shell Tellus S2 MX 68 - 20 litre/pail,34,Repair,2026-07-09
+WO-HK-40303,2026-07-01,Harbour Partners Limited,33597,HK-T04,1013147,Meanwell Power Supply Unit LRS-150-15 15V 10A,1,Preventive,2026-07-02
+WO-HK-40304,2026-07-01,Keystone Property Group Limited,28603,HK-T05,1013056,Plastic coupling 123mm X 61mm hole dia. X 26.5mm height,3,Repair,2026-07-02
+WO-HK-40308,2026-07-01,Atlas Residences Limited,33132,HK-T01,1012602,"Dewhurst Push Button, 24V, Red, Square, 304 S/S,  2N/O stand",2,Breakdown,2026-07-03
+WO-HK-40319,2026-07-01,Keystone Property Group Limited,30514,HK-T03,1013056,Plastic coupling 123mm X 61mm hole dia. X 26.5mm height,2,Breakdown,2026-07-12
+WO-HK-40305,2026-07-02,Keystone Property Group Limited,28603,HK-T07,101104,Shell Omala S2 GX 220 - 20 litre/pail,3,Repair,2026-07-02
+WO-HK-40306,2026-07-02,Keystone Property Group Limited,28603,HK-T01,1013057,H-shape plastic coupling 24.5mm height,20,Preventive,2026-07-02
+WO-HK-40312,2026-07-02,Harbour Partners Limited,33597,HK-T02,1013147,Meanwell Power Supply Unit LRS-150-15 15V 10A,1,Breakdown,2026-07-05
+WO-HK-40320,2026-07-02,Harbour Partners Limited,33597,HK-T05,1014980,3 x 0.75mm2 Power Cable 100yards,1,Preventive,2026-07-12
+WO-HK-40338,2026-07-02,Pacific Offices Co. Ltd,33604,HK-T03,1010370,59311703 Schindler salsis encoder,1,Preventive,2026-07-24
+WO-HK-40314,2026-07-05,Willow Hotels Limited,32703,HK-T03,,Micro switch Z-15GQ-B,3,Breakdown,2026-07-07
+WO-HK-40313,2026-07-06,Willow Campus Co. Ltd,36685,HK-T04,1013180,"XCK-P139 Limit Switch 1NC, 1NO",1,Preventive,2026-07-06
+WO-HK-40315,2026-07-07,Union Housing Limited,33915,HK-T01,1013419,Elevator Emergency Light Power Supply,1,Breakdown,2026-07-07
+WO-HK-40333,2026-07-08,Pacific Offices Co. Ltd,33604,HK-T07,1012571,Rotary Encoder ECN 413 2048 27S17-58,1,Preventive,2026-07-21
+WO-HK-40317,2026-07-10,Atlas Residences Limited,33132,HK-T01,1014200,Rope Lubricant T86 (1L/can),2,Breakdown,2026-07-10
+WO-HK-40318,2026-07-10,Keystone Property Group Limited,29550,HK-T03,1012948,Schneider 3 phase control relay RM22TA33,1,Breakdown,2026-07-11
+WO-HK-40327,2026-07-11,Atlas Residences Limited,33132,HK-T01,1014200,Rope Lubricant T86 (1L/can),3,Preventive,2026-07-18
+WO-HK-40323,2026-07-12,Atlas Residences Limited,33132,HK-T03,1014200,Rope Lubricant T86 (1L/can),1,Breakdown,2026-07-15
+WO-HK-40324,2026-07-12,Union Housing Limited,33915,HK-T07,1014200,Rope Lubricant T86 (1L/can),2,Repair,2026-07-15
+WO-HK-40325,2026-07-12,Pacific Offices Co. Ltd,33604,HK-T03,1011364,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,1,Breakdown,2026-07-16
+WO-HK-40354,2026-07-12,Eastgate Mall Co. Ltd,35230,HK-T03,1009075,"Otis Elevator Board, 9693J-12, Line Terminator",2,Breakdown,2026-08-04
+WO-HK-40326,2026-07-13,Harbour Partners Limited,33597,HK-T06,1014698,PC Board BCU-10 2NIM3162 UCE6-16B1,1,Preventive,2026-07-16
+WO-HK-40348,2026-07-13,Harbour Partners Limited,33597,HK-T04,1015002,PC Board BCU-20 2N1M3163-A UCE6-14B2,1,Breakdown,2026-07-27
+WO-HK-40321,2026-07-14,Keystone Property Group Limited,28603,HK-T03,1012792,3M comfort grip gloves,6,Breakdown,2026-07-14
+WO-HK-40322,2026-07-14,Beacon Partners Limited,35221,HK-T04,1015226,Hitachi Door Guide Shoe,10,Breakdown,2026-07-14
+WO-HK-40334,2026-07-14,Harbour Partners Limited,33597,HK-T01,1014879,Inverter MG400H-R19Z14F,1,Breakdown,2026-07-22
+WO-HK-40331,2026-07-15,Pacific Offices Co. Ltd,33604,HK-T03,1012930,3mm 16x64 dot matrix indicator c=red,1,Breakdown,2026-07-20
+WO-HK-40336,2026-07-15,Keystone Property Group Limited,28603,HK-T05,1012793,Cotton gloves with red stripe,12,Breakdown,2026-07-23
+WO-HK-40342,2026-07-15,Granite Plaza Co. Ltd,36805,HK-T04,,3-phase monitoring relay contact RH MPD-C,3,Repair,2026-07-26
+WO-HK-40329,2026-07-17,Harbour Partners Limited,33597,HK-T02,1015002,PC Board BCU-20 2N1M3163-A UCE6-14B2,1,Repair,2026-07-19
+WO-HK-40343,2026-07-17,Harbour Partners Limited,33597,HK-T05,1014698,PC Board BCU-10 2NIM3162 UCE6-16B1,1,Repair,2026-07-26
+WO-HK-40349,2026-07-17,Harbour Partners Limited,33597,HK-T06,1015173,CV60 96A0112-219 Weight Sensor,2,Breakdown,2026-07-27
+WO-HK-40328,2026-07-18,Keystone Property Group Limited,29550,HK-T06,5977,2ft 18w T8 FLU-TUBE COOLWHITE,9,Breakdown,2026-07-18
+WO-HK-40330,2026-07-19,Atlas Residences Limited,33132,HK-T04,1011084,Schneider Contactor LC1D18F7C,2,Repair,2026-07-19
+WO-HK-40344,2026-07-19,Willow Hotels Limited,32703,HK-T06,1014201,Warner Brake 59607202,3,Breakdown,2026-07-26
+WO-HK-40332,2026-07-20,Harbour Partners Limited,33597,HK-T07,1014698,PC Board BCU-10 2NIM3162 UCE6-16B1,1,Repair,2026-07-20
+WO-HK-40345,2026-07-20,Harbour Partners Limited,33597,HK-T05,1015002,PC Board BCU-20 2N1M3163-A UCE6-14B2,1,Repair,2026-07-26
+WO-HK-40360,2026-07-20,Keystone Property Group Limited,35009,HK-T07,1011330,Schneider TSXMRPP128K SRAM Application Memory Extension (SLS,2,Breakdown,2026-08-09
+WO-HK-40339,2026-07-21,Harbour Partners Limited,33597,HK-T05,1014698,PC Board BCU-10 2NIM3162 UCE6-16B1,1,Repair,2026-07-24
+WO-HK-40335,2026-07-22,Harbour Partners Limited,33597,HK-T03,1015002,PC Board BCU-20 2N1M3163-A UCE6-14B2,1,Preventive,2026-07-22
+WO-HK-40341,2026-07-22,Keystone Property Group Limited,35106,HK-T02,1012965 ,Handrail Newel Roller Set (dia. 18mm),10,Breakdown,2026-07-25
+WO-HK-40337,2026-07-23,Harbour Partners Limited,33597,HK-T07,1015125,Polymax 5M1120 Length : 1120mm,3,Preventive,2026-07-23
+WO-HK-40346,2026-07-23,Keystone Property Group Limited,30514,HK-T03,1015352,XCK-M108 Limit Switch 1NC 1NO,2,Preventive,2026-07-26
+WO-HK-40352,2026-07-24,Harbour Partners Limited,33597,HK-T03,1014200,Rope Lubricant T86 (1L/can),6,Preventive,2026-08-01
+WO-HK-40347,2026-07-26,Keystone Property Group Limited,30844,HK-T07,1013658,Timer Relay H3CR-A8 100-240VAC 100-125VDC,1,Breakdown,2026-07-26
+WO-HK-40359,2026-07-26,Keystone Property Group Limited,30514,HK-T07,100909,Otis Elevator OVF30 Inverter ACA21290BA4 3Ph 22kW,1,Breakdown,2026-08-08
+WO-HK-40350,2026-07-27,Keystone Property Group Limited,30844,HK-T07,1011281,Shell Tellus S2 MX 68 - 20 litre/pail,34,Repair,2026-07-31
+WO-HK-40353,2026-07-30,Harbour Partners Limited,33597,HK-T04,1015425,Ni-MH Battery 700mAh 3.6V,5,Breakdown,2026-08-02
+WO-HK-40351,2026-07-31,Sterling Logistics Limited,36886,HK-T05,Work and Repair,,1,Preventive,2026-07-31
+WO-HK-40361,2026-07-31,Harbour Partners Limited,33597,HK-T02,1015424,Ni-MH Battery 1200mAh 8.4V,14,Repair,2026-08-10
+WO-HK-40362,2026-08-01,Keystone Property Group Limited,29550,HK-T06,1014575,Carbon Brush 9.5 x 38 x 51mm,40,Breakdown,2026-08-11
+WO-HK-40366,2026-08-03,Keystone Property Group Limited,29550,HK-T01,1011234,460 Step Roller,50,Repair,2026-08-12
+WO-HK-40355,2026-08-04,Keystone Property Group Limited,29550,HK-T03,1011316,460 Chain Roller,30,Repair,2026-08-04
+WO-HK-40356,2026-08-05,Union Housing Limited,33902,HK-T07,1015170,Kone elevator door motor inverter KM606803H02,1,Breakdown,2026-08-05
+WO-HK-40357,2026-08-05,Keystone Property Group Limited,29550,HK-T04,1012792,3M comfort grip gloves,12,Breakdown,2026-08-05
+WO-HK-40358,2026-08-06,Atlas Residences Limited,33132,HK-T02,16227,Wittur Selcom Door Contact KF-9074/9075,30,Breakdown,2026-08-06
+WO-HK-40375,2026-08-07,Lumen Estates Limited,36895,HK-T07,1014088,Mitsubishi Floor Display Board LHD-61,1,Breakdown,2026-08-21
+WO-HK-40372,2026-08-09,Keystone Property Group Limited,29550,HK-T05,1011280,Shell Omala S2 GX 68 - 20 litre/pail,1,Preventive,2026-08-19
+WO-HK-40368,2026-08-10,Keystone Property Group Limited,29550,HK-T06,,460 Chain Roller,30,Repair,2026-08-14
+WO-HK-40384,2026-08-10,Keystone Property Group Limited,29550,HK-T04,1012871,CNIM Combplate 20 teeth Middle,10,Preventive,2026-09-01
+WO-HK-40363,2026-08-11,Keystone Property Group Limited,29550,HK-T05,1013056,Plastic coupling 123mm X 61mm hole dia. X 26.5mm height,2,Breakdown,2026-08-11
+WO-HK-40364,2026-08-11,Pacific Offices Co. Ltd,33604,HK-T04,1015460 ,Mayr Brake 6/894.510.03S 103.5V 40W 4500N,2,Repair,2026-08-11
+WO-HK-40365,2026-08-11,Pacific Partners Co. Ltd,33457,HK-T02,1013550,"CNIM Handrail EHC 8339FWNX, Indoor, Black plastic material",2,Breakdown,2026-08-11
+WO-HK-40386,2026-08-11,Willow Campus Co. Ltd,36685,HK-T02,5633,Yuasa Lead Battery 12V 7Ah NP7-12,1,Breakdown,2026-09-03
+WO-HK-40367,2026-08-12,Keystone Property Group Limited,29550,HK-T05,1011260,CNIM Combplate 20 teeth LHS,10,Breakdown,2026-08-12
+WO-HK-40369,2026-08-12,Keystone Property Group Limited,29550,HK-T05,1011261,CNIM Combplate 21 teeth LHS,10,Preventive,2026-08-15
+WO-HK-40373,2026-08-12,Keystone Property Group Limited,29550,HK-T01,1011315,Handrail sensor roller,1,Repair,2026-08-20
+WO-HK-40387,2026-08-12,Keystone Property Group Limited,29550,HK-T04,1011280,Shell Omala S2 GX 68 - 20 litre/pail,2,Breakdown,2026-09-03
+WO-HK-40390,2026-08-12,Keystone Property Group Limited,29550,HK-T01,1009479,ILE Universal multi voltage tapehead (PL1071),1,Breakdown,2026-09-07
+WO-HK-40370,2026-08-13,Keystone Property Group Limited,29550,HK-T01,1007712,Meanwell Power Supply Unit LRS-350-24/S- 350-24,2,Preventive,2026-08-18
+WO-HK-40371,2026-08-13,Keystone Property Group Limited,29550,HK-T01,1015124,"430PJ Length : 1092.2mm, 3 ribs, Pitch : 2.34mm",2,Breakdown,2026-08-18
+WO-HK-40374,2026-08-13,Keystone Property Group Limited,29550,HK-T03,1011234,460 Step Roller,10,Repair,2026-08-20
+WO-HK-40376,2026-08-23,Keystone Property Group Limited,35628,HK-T03,1010840,"FDPS-50A AC INPUT 110/220V, DC OUTPUT 5V 10A",1,Preventive,2026-08-23
+WO-HK-40377,2026-08-23,Falcon Property Co. Ltd,32707,HK-T06,1015573,Inverter L1000A for Elevator Model CIMR-LB4A0031FAC,1,Preventive,2026-08-24
+WO-HK-40379,2026-08-23,Atlas Residences Limited,33132,HK-T03,100906,Otis Elevator Guide Roller 456CL Dia=200mm,3,Repair,2026-08-28
+WO-HK-40381,2026-08-23,Keystone Property Group Limited,35009,HK-T07,1011265,9301 (Ver K) 迫力降壓板,1,Repair,2026-08-29
+WO-HK-40378,2026-08-24,Atlas Residences Limited,33132,HK-T04,1015426,Contactor 3RT2026-1BP40 230VDC 11kW 25A 1NC 1NO,1,Repair,2026-08-24
+WO-HK-40380,2026-08-27,Keystone Property Group Limited,30844,HK-T03,1012708,Schneider Relay RM22UA32MR,8,Repair,2026-08-28
+WO-HK-40385,2026-08-28,Pacific Partners Co. Ltd,33457,HK-T04,Work and Repair,,2,Breakdown,2026-09-01
+WO-HK-40382,2026-08-29,Keystone Property Group Limited,30844,HK-T04,1009102,Wittur Selcom Door Controller RCF1/12-Sel Chi 12A,1,Preventive,2026-08-29
+WO-HK-40383,2026-08-30,Pacific Partners Co. Ltd,33457,HK-T03,Work and Repair,,4,Breakdown,2026-08-31
+WO-HK-40406,2026-08-31,Keystone Property Group Limited,28603,HK-T06,Work and Repair,,1,Repair,2026-09-23
+WO-HK-40388,2026-09-04,Union Housing Limited,33915,HK-T07,1007766,Kone Escalator Newel Chain KM5232300G03,1,Preventive,2026-09-06
+WO-HK-40391,2026-09-04,Union Housing Limited,33915,HK-T02,1013426,Wax Polish (450g/can),1,Repair,2026-09-07
+WO-HK-40392,2026-09-05,Quay Healthcare Limited,36536,HK-T05,1011280,Shell Omala S2 GX 68 - 20 litre/pail,2,Repair,2026-09-07
+WO-HK-40393,2026-09-05,Union Housing Limited,33915,HK-T01,1013426,Wax Polish (450g/can),1,Preventive,2026-09-08
+WO-HK-40389,2026-09-06,Union Housing Limited,33915,HK-T04,1007766,Kone Escalator Newel Chain KM5232300G03,1,Breakdown,2026-09-06
+WO-HK-40394,2026-09-09,Keystone Property Group Limited,28603,HK-T03,1014200,Rope Lubricant T86 (1L/can),3,Breakdown,2026-09-09
+WO-HK-40395,2026-09-09,Keystone Property Group Limited,29550,HK-T05,1014878,Inverter MG400H-R10Z14F,2,Repair,2026-09-11
+WO-HK-40396,2026-09-16,Keystone Property Group Limited,28603,HK-T03,5633,Yuasa Lead Battery 12V 7Ah NP7-12,5,Preventive,2026-09-16
+WO-HK-40397,2026-09-16,Keystone Property Group Limited,29550,HK-T06,1012727,"CEDES GLS 126 NT, NO Sensor",1,Preventive,2026-09-18
+WO-HK-40398,2026-09-18,Keystone Property Group Limited,29550,HK-T07,1015262 ,RC24 DC Door Motor Controller,1,Breakdown,2026-09-19
+WO-HK-40407,2026-09-18,Keystone Property Group Limited,28603,HK-T03,1011255,Relay interface Magnete 46S02728-0052 rev 0,2,Preventive,2026-09-23
+WO-HK-40411,2026-09-18,Keystone Property Group Limited,28603,HK-T01,1011211,IDEC relay socket SH4B-05B,2,Repair,2026-09-27
+WO-HK-40399,2026-09-19,Keystone Property Group Limited,28603,HK-T02,100864,Otis Elevator ABB Contactor EHDE 280,2,Breakdown,2026-09-19
+WO-HK-40400,2026-09-20,Keystone Property Group Limited,29550,HK-T01,1010061,J A P A N 1 6 B 英 式 半 扣,6,Repair,2026-09-20
+WO-HK-40434,2026-09-20,Keystone Property Group Limited,28603,HK-T01,1012775,IDEC Relay RH4B-UL DC24V,2,Repair,2026-09-30
+WO-HK-40401,2026-09-21,Keystone Property Group Limited,28603,HK-T06,1009079,Otis Elevator Inverter 46S02965-0011,1,Breakdown,2026-09-21
+WO-HK-40402,2026-09-21,Keystone Property Group Limited,28603,HK-T03,101117,15E CNIM Step 38111223V03AA002,2,Repair,2026-09-21
+WO-HK-40403,2026-09-21,Keystone Property Group Limited,35522,HK-T01,1011260,CNIM Combplate 20 teeth LHS,1,Breakdown,2026-09-21
+WO-HK-40404,2026-09-21,Keystone Property Group Limited,29550,HK-T07,1009088,LCMSS Otis Elevator LMCSS-MCB Board JEA26801AA,1,Breakdown,2026-09-21
+WO-HK-40408,2026-09-21,Keystone Property Group Limited,35522,HK-T06,1011174,15E CNIM Step 38111223V03AA002,1,Repair,2026-09-23
+WO-HK-40418,2026-09-21,Keystone Property Group Limited,29550,HK-T04,1015833,WD-40 Brake and Parts Cleaner (450ml),2,Breakdown,2026-09-28
+WO-HK-40463,2026-09-21,Keystone Property Group Limited,29550,HK-T06,1010059,J A P A N 1 6 B 英 式 平 扣,10,Breakdown,2026-10-03
+WO-HK-40492,2026-09-21,Keystone Property Group Limited,30844,HK-T03,1011260,CNIM Combplate 20 teeth LHS,5,Repair,2026-10-16
+WO-HK-40405,2026-09-22,Keystone Property Group Limited,29550,HK-T07,1010057,J A P A N 1 6 B 英 式 機 鍊,100,Breakdown,2026-09-22
+WO-HK-40412,2026-09-22,Keystone Property Group Limited,29550,HK-T07,1007766,Kone Escalator Newel Chain KM5232300G03,4,Repair,2026-09-27
+WO-HK-40419,2026-09-22,Keystone Property Group Limited,35031,HK-T01,1011363,Schneider Card TSXSCP114,1,Preventive,2026-09-28
+WO-HK-40409,2026-09-23,Keystone Property Group Limited,30844,HK-T07,101117,15E CNIM Step 38111223V03AA002,9,Breakdown,2026-09-23
+WO-HK-40413,2026-09-23,Keystone Property Group Limited,28603,HK-T05,1011260,CNIM Combplate 20 teeth LHS,5,Breakdown,2026-09-27
+WO-HK-40420,2026-09-23,Keystone Property Group Limited,30844,HK-T03,1011174,15E CNIM Step 38111223V03AA002,4,Breakdown,2026-09-28
+WO-HK-40410,2026-09-24,Union Management Limited,34365,HK-T05,1005514,Wittur Selcom Door Roller with Screw 3201.05.0013,6,Preventive,2026-09-24
+WO-HK-40421,2026-09-26,Keystone Property Group Limited,29550,HK-T04,1011047,Shell Omala S2 GX 460 - 20 litre/pail,2,Breakdown,2026-09-28
+WO-HK-40414,2026-09-27,Willow Campus Co. Ltd,36685,HK-T03,1010085,Kone Photoelectric Switch Leave Sensor 61U61N/KM86420G03/DS-,1,Repair,2026-09-27
+WO-HK-40415,2026-09-27,Sterling Logistics Limited,,HK-T07,Work and Repair,,1,Repair,2026-09-27
+WO-HK-40416,2026-09-27,Quay Healthcare Limited,,HK-T04,Work and Repair,,1,Repair,2026-09-27
+WO-HK-40417,2026-09-27,Quay Healthcare Limited,,HK-T07,Work and Repair,,1,Breakdown,2026-09-27
+WO-HK-40422,2026-09-27,Quay Healthcare Limited,,HK-T02,work and repair ,,4,Repair,2026-09-28
+WO-HK-40435,2026-09-27,Harbour Partners Limited,33597,HK-T02,1015125,Polymax 5M1120 Length : 1120mm,4,Repair,2026-09-30
+WO-HK-40446,2026-09-27,Quay Healthcare Limited,,HK-T07,Work and Repair,,1,Breakdown,2026-10-01
+WO-HK-40452,2026-09-27,Quay Healthcare Limited,,HK-T03,Work and Repair,,2,Breakdown,2026-10-02
+WO-HK-40464,2026-09-27,Keystone Property Group Limited,35522,HK-T06,Work and Repair,,1,Breakdown,2026-10-03
+WO-HK-40477,2026-09-27,Sterling Logistics Limited,,HK-T06,work and repair ,,1,Breakdown,2026-10-06
+WO-HK-40478,2026-09-27,Quay Healthcare Limited,,HK-T01,Work and Repair,,1,Breakdown,2026-10-07
+WO-HK-40482,2026-09-27,Sterling Logistics Limited,,HK-T02,work and repair ,,2,Breakdown,2026-10-09
+WO-HK-40423,2026-09-28,Willow Management Co. Ltd,37199,HK-T06,Work and Repair,,1,Preventive,2026-09-28
+WO-HK-40424,2026-09-28,Quay Healthcare Limited,,HK-T06,Work and Repair,,12,Breakdown,2026-09-28
+WO-HK-40425,2026-09-28,Quay Healthcare Limited,,HK-T06,Work and Repair,,1,Breakdown,2026-09-28
+WO-HK-40436,2026-09-28,Vertex Transport Limited,,HK-T06,Work and Repair,,1,Breakdown,2026-09-30
+WO-HK-40437,2026-09-28,Willow Campus Co. Ltd,36685,HK-T02,Work and Repair,,1,Breakdown,2026-09-30
+WO-HK-40438,2026-09-28,Quay Healthcare Limited,,HK-T05,Work and Repair,,1,Breakdown,2026-09-30
+WO-HK-40447,2026-09-28,Sterling Logistics Limited,,HK-T04,Work and Repair,,1,Preventive,2026-10-01
+WO-HK-40448,2026-09-28,Sterling Logistics Limited,,HK-T03,Work and Repair,,1,Preventive,2026-10-01
+WO-HK-40453,2026-09-28,Sterling Logistics Limited,,HK-T03,Work and Repair,,1,Repair,2026-10-02
+WO-HK-40454,2026-09-28,Quay Healthcare Limited,,HK-T04,Work and Repair,,1,Breakdown,2026-10-02
+WO-HK-40465,2026-09-28,Eastgate Mall Co. Ltd,35230,HK-T04,Work and Repair,,1,Breakdown,2026-10-03
+WO-HK-40466,2026-09-28,Union Housing Limited,33902,HK-T03,Work and Repair,,1,Repair,2026-10-03
+WO-HK-40471,2026-09-28,Sterling Logistics Limited,,HK-T04,Work and Repai,,1,Breakdown,2026-10-04
+WO-HK-40480,2026-09-28,Harbour Partners Limited,33597,HK-T04,101604,Polymax 5M1000 Length : 1000mm,4,Repair,2026-10-08
+WO-HK-40485,2026-09-28,Quay Healthcare Limited,,HK-T04,Work and Repair,,1,Repair,2026-10-10
+WO-HK-40486,2026-09-28,Sterling Logistics Limited,,HK-T07,Work and Repair,,1,Preventive,2026-10-11
+WO-HK-40493,2026-09-28,Quay Healthcare Limited,,HK-T04,,,1,Breakdown,2026-10-16
+WO-HK-40426,2026-09-29,Harbour Partners Limited,33597,HK-T03,1015969,Car Door Lock for Toshiba CV60,2,Breakdown,2026-09-29
+WO-HK-40427,2026-09-29,Keystone Property Group Limited,30844,HK-T01,work and repair ,,5,Preventive,2026-09-29
+WO-HK-40428,2026-09-29,Keystone Property Group Limited,30844,HK-T01,Work and Repair,,9,Breakdown,2026-09-29
+WO-HK-40429,2026-09-29,Sterling Logistics Limited,,HK-T05,Work and Repair,,1,Preventive,2026-09-29
+WO-HK-40430,2026-09-29,Lumen Estates Limited,,HK-T06,Work and Repair,,1,Breakdown,2026-09-29
+WO-HK-40431,2026-09-29,Quay Healthcare Limited,,HK-T03,Work and Repair,,4,Breakdown,2026-09-29
+WO-HK-40432,2026-09-29,Quay Healthcare Limited,,HK-T06,Work and Repair,,1,Breakdown,2026-09-29
+WO-HK-40433,2026-09-29,Quay Healthcare Limited,,HK-T02,Work and Repair,,12,Preventive,2026-09-29
+WO-HK-40439,2026-09-29,Harbour Partners Limited,33597,HK-T04,1016044,PCB Board CNU-N5 UCE4-164L 2N1M3177-B,5,Preventive,2026-09-30
+WO-HK-40440,2026-09-29,Keystone Property Group Limited,35522,HK-T02,Work and Repair,,1,Repair,2026-09-30
+WO-HK-40441,2026-09-29,Sterling Logistics Limited,,HK-T04,Work and Repair,,1,Repair,2026-09-30
+WO-HK-40449,2026-09-29,Quay Healthcare Limited,,HK-T03,Work and Repair,,1,Breakdown,2026-10-01
+WO-HK-40455,2026-09-29,Sterling Logistics Limited,,HK-T06,Work and Repair,,1,Breakdown,2026-10-02
+WO-HK-40456,2026-09-29,Willow Management Co. Ltd,37199,HK-T03,Work and Repair,,5,Repair,2026-10-02
+WO-HK-40467,2026-09-29,Willow Management Co. Ltd,37199,HK-T07,Work and Repair,,1,Breakdown,2026-10-03
+WO-HK-40468,2026-09-29,Pacific Offices Co. Ltd,33604,HK-T06,Work and Repair,,1,Preventive,2026-10-03
+WO-HK-40469,2026-09-29,Quay Healthcare Limited,,HK-T03,Work and Repair,,8,Preventive,2026-10-03
+WO-HK-40474,2026-09-29,Keystone Property Group Limited,29550,HK-T07,Work and Repai,,4,Preventive,2026-10-05
+WO-HK-40475,2026-09-29,Sterling Logistics Limited,,HK-T02,Work and Repair,,1,Repair,2026-10-05
+WO-HK-40479,2026-09-29,Quay Healthcare Limited,,HK-T01,Work and Repair,,8,Preventive,2026-10-07
+WO-HK-40483,2026-09-29,Keystone Property Group Limited,29550,HK-T01,Work and Repair,,5,Preventive,2026-10-09
+WO-HK-40487,2026-09-29,Keystone Property Group Limited,28603,HK-T07,Work and Repair,,2,Breakdown,2026-10-12
+WO-HK-40523,2026-09-29,Sterling Logistics Limited,,HK-T03,Work and Repair,,1,Preventive,2026-10-21
+WO-HK-40442,2026-09-30,Quay Healthcare Limited,,HK-T04,Work and Repair,,1,Preventive,2026-09-30
+WO-HK-40443,2026-09-30,Quay Healthcare Limited,,HK-T07,Work and Repair,,2,Repair,2026-09-30
+WO-HK-40444,2026-09-30,Quay Healthcare Limited,,HK-T01,Work and Repair,,8,Breakdown,2026-09-30
+WO-HK-40445,2026-09-30,Quay Healthcare Limited,,HK-T04,Work and Repair,,2,Repair,2026-09-30
+WO-HK-40450,2026-09-30,Keystone Property Group Limited,30844,HK-T04,Work and Repair,,4,Breakdown,2026-10-01
+WO-HK-40451,2026-09-30,Willow Campus Co. Ltd,,HK-T03,work and repair ,,2,Breakdown,2026-10-01
+WO-HK-40457,2026-09-30,Keystone Property Group Limited,28603,HK-T04,Work and Repair,,5,Repair,2026-10-02
+WO-HK-40458,2026-09-30,Sterling Logistics Limited,,HK-T01,Work and Repai,,1,Repair,2026-10-02
+WO-HK-40459,2026-09-30,Sterling Logistics Limited,,HK-T04,Work and Repair,,1,Breakdown,2026-10-02
+WO-HK-40460,2026-09-30,Quay Healthcare Limited,,HK-T07,,,2,Breakdown,2026-10-02
+WO-HK-40461,2026-09-30,Quay Healthcare Limited,,HK-T06,Work and Repair,,1,Repair,2026-10-02
+WO-HK-40462,2026-09-30,Quay Healthcare Limited,,HK-T03,Work and Repair,,1,Preventive,2026-10-02
+WO-HK-40470,2026-09-30,Quay Healthcare Limited,,HK-T07,Work and Repair,,8,Repair,2026-10-03
+WO-HK-40472,2026-09-30,Quay Healthcare Limited,,HK-T03,Work and Repair,,1,Breakdown,2026-10-04
+WO-HK-40476,2026-09-30,Lumen Estates Limited,36895,HK-T02,,COP Intercom DJ-BB-6V,1,Repair,2026-10-05
+WO-HK-40489,2026-09-30,Sterling Logistics Limited,,HK-T02,Work and Repair,,1,Repair,2026-10-15
+WO-HK-40494,2026-09-30,Quay Healthcare Limited,,HK-T01,Work and Repair,,1,Preventive,2026-10-16
+WO-HK-40524,2026-09-30,Quay Healthcare Limited,,HK-T04,Work and Repair,,1,Repair,2026-10-21
+WO-HK-40473,2026-10-03,Keystone Property Group Limited,29550,HK-T06,1012727,"CEDES GLS 126 NT, NO Sensor",1,Breakdown,2026-10-04
+WO-HK-40484,2026-10-03,Union Housing Limited,37188,HK-T04,1016027,"Handrail friction strip, width 39mm, thick 8.4mm",2,Repair,2026-10-09
+WO-HK-40481,2026-10-08,Harbour Partners Limited,33597,HK-T02,898,Auxiliary contactor 3 NO - 1 NC - LADN31,1,Preventive,2026-10-08
+WO-HK-40488,2026-10-08,Keystone Property Group Limited,28603,HK-T04,1009079,Otis Elevator Inverter 46S02965-0011,2,Breakdown,2026-10-13
+WO-HK-40490,2026-10-09,Pacific Offices Co. Ltd,33604,HK-T01,1012930,3mm 16x64 dot matrix indicator c=red,1,Preventive,2026-10-15
+WO-HK-40495,2026-10-11,Keystone Property Group Limited,35106,HK-T06,1009089,Schneider Elevator Inverter ATV71HD22N4 3p 380v 22,1,Breakdown,2026-10-16
+WO-HK-40491,2026-10-13,Keystone Property Group Limited,29550,HK-T01,1014200,Rope Lubricant T86 (1L/can),4,Preventive,2026-10-15
+WO-HK-40499,2026-10-13,Quay Hospital Co. Ltd,37278,HK-T02,15191,Elevator HD Fan FB-9B,1,Breakdown,2026-10-17
+WO-HK-40550,2026-10-13,Keystone Property Group Limited,29550,HK-T07,,RCF-1 Replacement Kit - 903340G01,1,Preventive,2026-11-01
+WO-HK-40553,2026-10-13,Keystone Property Group Limited,29550,HK-T04,1016158,Brake Rectifier Module Lenze Typ 14.630.13.014,2,Preventive,2026-11-02
+WO-HK-40500,2026-10-15,Quay Hospital Co. Ltd,37278,HK-T06,1013419,Elevator Emergency Light Power Supply,1,Preventive,2026-10-17
+WO-HK-40496,2026-10-16,Pacific Offices Co. Ltd,33604,HK-T06,1011857,Schindler Board 594394,1,Preventive,2026-10-16
+WO-HK-40497,2026-10-16,Pacific Offices Co. Ltd,33604,HK-T06,1012601,"Dewhurst Push Button, 24V, Red, Square, 304 S/S,  2N/O stand",1,Breakdown,2026-10-16
+WO-HK-40498,2026-10-16,Harbour Partners Limited,33597,HK-T02,1014350 ,Toshiba car door lock (left door),6,Breakdown,2026-10-16
+WO-HK-40501,2026-10-16,Keystone Property Group Limited,35628,HK-T02,,Aiphone Car Intercom LEF-3,2,Preventive,2026-10-17
+WO-HK-40502,2026-10-16,Quay Hospital Co. Ltd,37278,HK-T02,5633,Yuasa Lead Battery 12V 7Ah NP7-12,2,Breakdown,2026-10-18
+WO-HK-40503,2026-10-16,Harbour Partners Limited,33597,HK-T05,1014670,Elevator PCB Board CV60 UCE12 22A22 MCU-VF2A,3,Breakdown,2026-10-18
+WO-HK-40510,2026-10-16,Keystone Property Group Limited,35031,HK-T05,1013057,H-shape plastic coupling 24.5mm height,10,Repair,2026-10-19
+WO-HK-40511,2026-10-16,Harbour Partners Limited,33597,HK-T06,1015759,PC Board MM186-1 UCE1-73C1 2N1M3122-A,1,Breakdown,2026-10-19
+WO-HK-40518,2026-10-16,Atlas Residences Limited,33132,HK-T04,1013419,Elevator Emergency Light Power Supply,1,Repair,2026-10-20
+WO-HK-40525,2026-10-16,Keystone Property Group Limited,28603,HK-T05,1011281,Shell Tellus S2 MX 68 - 20 litre/pail,3,Preventive,2026-10-21
+WO-HK-40530,2026-10-16,Keystone Property Group Limited,28603,HK-T03,1011234,460 Step Roller,200,Repair,2026-10-23
+WO-HK-40512,2026-10-17,Harbour Partners Limited,33597,HK-T02,1015300,Elevator PCB Board CV60 UCE12 25A22 MCU-VF5A 2N1M3176-B,3,Breakdown,2026-10-19
+WO-HK-40519,2026-10-17,Union Housing Limited,33915,HK-T05,1006068,"Kone Door Sensor Curtain KM897294 FCU0735, L=1.8m",1,Repair,2026-10-20
+WO-HK-40526,2026-10-17,Pacific Offices Co. Ltd,33604,HK-T06,1012596,"Dewhurst Push Button, 24V, Red, Square, 304 S/S,  2N/O stand",1,Breakdown,2026-10-21
+WO-HK-40554,2026-10-17,Keystone Property Group Limited,28603,HK-T03,1011316,460 Chain Roller,120,Preventive,2026-11-02
+WO-HK-40504,2026-10-18,Keystone Property Group Limited,30514,HK-T04,1010058,Handrail chain J A P A N 2 0 B 英 式 機 鍊,30,Breakdown,2026-10-18
+WO-HK-40505,2026-10-18,Keystone Property Group Limited,30514,HK-T06,1011281,Shell Tellus S2 MX 68 - 20 litre/pail,1,Breakdown,2026-10-18
+WO-HK-40506,2026-10-18,Keystone Property Group Limited,28603,HK-T03,1015123,Pressure Sprayer,2,Breakdown,2026-10-18
+WO-HK-40507,2026-10-18,Granite Plaza Co. Ltd,37302,HK-T04,,Shell Omala S2 GX 68 - 20 litre/pail,1,Preventive,2026-10-18
+WO-HK-40508,2026-10-18,North Hospital Co. Ltd,37308,HK-T02,1012728,Shell Omala S4 WE 320 - 20 litre/pail,1,Preventive,2026-10-18
+WO-HK-40509,2026-10-18,Harbour Partners Limited,33597,HK-T05,1015758,PC Board PU85-1 UCE1-95C8 2N1M3151-C,3,Breakdown,2026-10-18
+WO-HK-40513,2026-10-18,Union Housing Limited,33915,HK-T07,1015952,LCEFCB Card KM713700G11,4,Preventive,2026-10-19
+WO-HK-40520,2026-10-18,Harbour Partners Limited,33597,HK-T04,1015969,Car Door Lock for Toshiba CV60,2,Breakdown,2026-10-20
+WO-HK-40521,2026-10-18,Union Housing Limited,33915,HK-T05,1013550,"CNIM Handrail EHC 8339FWNX, Indoor, Black plastic material",56.93,Breakdown,2026-10-20
+WO-HK-40527,2026-10-18,Atlas Residences Limited,33132,HK-T05,1013149,Meanwell Power Supply Unit S-300-24 24V 12.5A,1,Repair,2026-10-21
+WO-HK-40528,2026-10-18,Union Housing Limited,33915,HK-T02,1011541,KONE MX18 Brake KM710216G02,1,Breakdown,2026-10-22
+WO-HK-40531,2026-10-18,Willow Hotels Limited,32703,HK-T01,1014475,Step Chain 9T/76/40*29/12.7,1,Preventive,2026-10-23
+WO-HK-40534,2026-10-18,Keystone Property Group Limited,29550,HK-T02,1011232,Roller 85mm Wittur,100,Breakdown,2026-10-24
+WO-HK-40535,2026-10-18,Pacific Offices Co. Ltd,33604,HK-T02,101260,"Dewhurst Push Button, 24V, Red, Square, 304 S/S,  2N/O stand",1,Preventive,2026-10-24
+WO-HK-40538,2026-10-18,Keystone Property Group Limited,30514,HK-T05,1011260,CNIM Combplate 20 teeth LHS,10,Preventive,2026-10-25
+WO-HK-40545,2026-10-18,Keystone Property Group Limited,29550,HK-T02,1011232,Roller 85mm Wittur,40,Repair,2026-10-29
+WO-HK-40555,2026-10-18,Harbour Partners Limited,33597,HK-T04,1014253,DC Contactor CD222-DAS4 DC110V-20A,4,Breakdown,2026-11-02
+WO-HK-40514,2026-10-19,Granite Plaza Co. Ltd,37302,HK-T06,1016027,"Handrail friction strip, width 39mm, thick 8.4mm",1,Preventive,2026-10-19
+WO-HK-40515,2026-10-19,Atlas Residences Limited,33132,HK-T05,1014820,Interface Board SY17519-X,1,Breakdown,2026-10-19
+WO-HK-40516,2026-10-19,Keystone Property Group Limited,28603,HK-T07,1013550,"CNIM Handrail EHC 8339FWNX, Indoor, Black plastic material",1,Breakdown,2026-10-19
+WO-HK-40517,2026-10-19,Pacific Offices Co. Ltd,33604,HK-T06,1016007,LONPIGO 1.Q 594426,6,Breakdown,2026-10-19
+WO-HK-40529,2026-10-19,Keystone Property Group Limited,30514,HK-T05,1011234,460 Step Roller,30,Breakdown,2026-10-22
+WO-HK-40532,2026-10-19,Keystone Property Group Limited,29550,HK-T06,101339,Fluorescent Light Diffuser Sheet 990mm x 275mm,10,Repair,2026-10-23
+WO-HK-40536,2026-10-19,Keystone Property Group Limited,30514,HK-T07,1011234,460 Step Roller,5,Breakdown,2026-10-24
+WO-HK-40542,2026-10-19,Keystone Property Group Limited,29550,HK-T07,1013654,Nylon Door Roller dia 35.6mm,4,Breakdown,2026-10-27
+WO-HK-40543,2026-10-19,Keystone Property Group Limited,28603,HK-T06,,Shell Omala S2 GX 68 - 20 litre/pail,3,Preventive,2026-10-28
+WO-HK-40546,2026-10-19,Keystone Property Group Limited,35031,HK-T02,1013734,21T Pinion Adjuster for Handrail Drive Chain,1,Repair,2026-10-29
+WO-HK-40551,2026-10-19,Keystone Property Group Limited,29550,HK-T01,1015533,"Elevator Level Sensor CEDES GLS 126 NT2, NO",1,Preventive,2026-11-01
+WO-HK-40556,2026-10-19,Keystone Property Group Limited,30514,HK-T03,1011261,CNIM Combplate 21 teeth LHS,15,Preventive,2026-11-02
+WO-HK-40557,2026-10-19,North Property Limited,34065,HK-T05,101581,3mm 16x120 Dot Matrix Message IND/DM120HG-R-SD-A2,1,Breakdown,2026-11-02
+WO-HK-40522,2026-10-20,Eastgate Mall Co. Ltd,35230,HK-T06,1015222,Lift Intercom Unit Board ATC DK-LMS-2,1,Breakdown,2026-10-20
+WO-HK-40541,2026-10-20,Union Housing Limited,33915,HK-T02,1007766,Kone Escalator Newel Chain KM5232300G03,4,Preventive,2026-10-26
+WO-HK-40533,2026-10-23,Meridian Retail Limited,34328,HK-T07,1016413,Hitachi escalator combplate,6,Breakdown,2026-10-23
+WO-HK-40537,2026-10-24,Keystone Property Group Limited,35031,HK-T06,1010211 ,Schneider Relay RM22TR33,2,Repair,2026-10-24
+WO-HK-40544,2026-10-24,Meridian Retail Limited,,HK-T02,1016463,QKS9 Door Force Limiter,2,Preventive,2026-10-28
+WO-HK-40539,2026-10-25,Keystone Property Group Limited,29550,HK-T04,1013148,Meanwell Power Supply Unit LRS-50-05 5V 10A,2,Preventive,2026-10-25
+WO-HK-40540,2026-10-25,Keystone Property Group Limited,29550,HK-T03,1014022,OMRON RU4S-A220,2,Breakdown,2026-10-25
+WO-HK-40547,2026-10-25,Keystone Property Group Limited,30514,HK-T03,325,WD-40 • Multifunction Product • Double Posit Spray,1,Breakdown,2026-10-29
+WO-HK-40558,2026-10-25,Meridian Retail Limited,34328,HK-T01,1013550,"CNIM Handrail EHC 8339FWNX, Indoor, Black plastic material",2,Breakdown,2026-11-02
+WO-HK-40559,2026-10-25,Pacific Offices Co. Ltd,33604,HK-T05,1011364,Schindler 5400 Elevator VF55PF1/ DR-VAP055 Inverter,2,Repair,2026-11-02
+WO-HK-40548,2026-10-26,Keystone Property Group Limited,29550,HK-T07,1012792,3M comfort grip gloves,1,Preventive,2026-10-31
+WO-HK-40560,2026-10-26,Keystone Property Group Limited,29550,HK-T02,1009085,Otis Elevator Door Lock NETEC,1,Repair,2026-11-02
+WO-HK-40549,2026-10-29,Keystone Property Group Limited,29550,HK-T04,1011237,Plastic piece F0306BE1,2,Breakdown,2026-10-31
+WO-HK-40561,2026-10-31,Riverside University Co. Ltd,33900,HK-T03,,AC GSI 2 for two floor sensor,1,Breakdown,2026-11-02
+WO-HK-40552,2026-11-01,Keystone Property Group Limited,35522,HK-T03,1012791,Metal Long Spout Oil Can 250ml,1,Breakdown,2026-11-01
